@@ -7,8 +7,8 @@ typeset -AHg ICONS
 
 ICONS=(
   # Prompt separators
-  flame_right        $'\ue0c0' # 
-  flame_left         $'\ue0c2' # 
+  flame_right        $'\ue0c6' # 
+  flame_left         $'\ue0c7' # 
   terminal           $'\uf120' # 
 
   # OS logos
